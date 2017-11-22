@@ -4,7 +4,7 @@ An binary diff&amp;patch library based on bsdiff algorithm(v4.3) for Go
 ## Installation
 
 ```bash
-go get -v https://github.com/tsyeyuanfeng/go-bsdp/...
+go get -v github.com/tsyeyuanfeng/go-bsdp/...
 ```
 
 ## API
